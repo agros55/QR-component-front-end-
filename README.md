@@ -64,5 +64,5 @@ Llevo un tiempo en el desarrollo web. Así que decidí comenzar a utilizar este 
 ## Autor
 
 - LinkedIn - [Fernando Octavio Viveros](www.linkedin.com/in/fernandooctavioviveros)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/agros55)
+- Frontend Mentor - [@agros55](https://www.frontendmentor.io/profile/agros55)
 
